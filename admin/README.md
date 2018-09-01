@@ -1,30 +1,12 @@
-﻿mov_project's Document
+﻿# BitRun之小奶狗管理系统
 
+## 打开方式
 
----
-*  创建一个独立的Python虚拟环境, 并进入
+http://123.207.75.151:9999/xadmin/
 
-```
-$ virtualenv --no-site-packages venv
+账号: power
+密码: 13672240290cccc
 
-$ source venv/bin/activate
+## 运行方式
 
-```
-
-*  使用命令安装项目的运行依赖：
-
-
-```
-$ pip install -r requirements.txt
-```
-
-
-* 在mov_project 下运行django应用：
-
-```
-$ gunicorn -w 4 -b 服务器ip地址:任意空闲端口号（建议8000以后） wsgi:application
-```
-
-*  浏览器打开地址：http://45.77.150.109:8001/xadmin/
-
-登录账号：power     登录密码：13672240290cccc
+python manage.py runserver 0.0.0.0:9999
