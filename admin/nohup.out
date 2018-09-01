@@ -1,0 +1,696 @@
+[31/Aug/2018 19:17:48] "GET /xadmin/bch_block_list/picdetail/?o=id HTTP/1.1" 200 31370
+[31/Aug/2018 19:17:48] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[31/Aug/2018 19:17:50] "GET /xadmin HTTP/1.1" 301 0
+[31/Aug/2018 19:17:50] "GET /xadmin/ HTTP/1.1" 200 4377
+[31/Aug/2018 19:17:50] "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 200 1888
+[31/Aug/2018 19:17:50] "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 200 21658
+[31/Aug/2018 19:17:50] "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 200 8324
+[31/Aug/2018 19:17:50] "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 200 175
+[31/Aug/2018 19:17:50] "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 200 4361
+[31/Aug/2018 19:17:50] "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 200 126432
+[31/Aug/2018 19:17:50] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 200 8195
+[31/Aug/2018 19:17:50] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 200 15069
+[31/Aug/2018 19:17:50] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 200 4561
+[31/Aug/2018 19:17:51] "GET /xadmin/jsi18n/ HTTP/1.1" 200 4376
+[31/Aug/2018 19:17:51] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 200 42543
+[31/Aug/2018 19:17:52] "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 200 3401
+[31/Aug/2018 19:17:52] "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 200 4033
+[31/Aug/2018 19:17:52] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 200 31918
+[31/Aug/2018 19:17:52] "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 200 3489
+[31/Aug/2018 19:17:52] "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 200 58327
+[31/Aug/2018 19:17:54] "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 200 240200
+[31/Aug/2018 19:17:56] "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+Not Found: /
+[31/Aug/2018 20:16:51] "GET / HTTP/1.1" 404 2026
+Not Found: /
+[31/Aug/2018 20:16:56] "GET / HTTP/1.1" 404 2026
+[31/Aug/2018 20:30:31] "GET /xadmin/bch_block_list/picdetail/?o=id HTTP/1.1" 200 31370
+[31/Aug/2018 20:30:31] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+Not Found: /http:/www.baidu.com/cache/global/img/gs.gif
+[31/Aug/2018 23:17:09] "GET http://www.baidu.com/cache/global/img/gs.gif HTTP/1.1" 404 1729
+Not Found: /
+[01/Sep/2018 00:03:54] "GET / HTTP/1.1" 404 2026
+Internal Server Error: /bitrun/api/v1/get_monkey_status/123
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: run() takes no arguments (1 given)
+[01/Sep/2018 00:35:26] "GET /bitrun/api/v1/get_monkey_status/123 HTTP/1.1" 500 59835
+Internal Server Error: /bitrun/api/v1/get_monkey_status/123
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: run() takes no arguments (1 given)
+[01/Sep/2018 00:36:32] "GET /bitrun/api/v1/get_monkey_status/123 HTTP/1.1" 500 59970
+Not Found: /
+[01/Sep/2018 05:35:41] "GET / HTTP/1.1" 404 2026
+Not Found: /http:/www.baidu.com/cache/global/img/gs.gif
+[01/Sep/2018 08:21:57] "GET http://www.baidu.com/cache/global/img/gs.gif HTTP/1.1" 404 1729
+Performing system checks...
+
+System check identified no issues (0 silenced).
+August 31, 2018 - 19:17:39
+Django version 1.11.14, using settings 'learn_xadmin.settings'
+Starting development server at http://0.0.0.0:9999/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0x7f24449c4230>
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 116, in inner_run
+    autoreload.raise_last_exception()
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 251, in raise_last_exception
+    six.reraise(*_exception)
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/apps/registry.py", line 116, in populate
+    app_config.ready()
+  File "/home/ubuntu/repos/app/admin/xadmin/apps.py", line 16, in ready
+    self.module.autodiscover()
+  File "/home/ubuntu/repos/app/admin/xadmin/__init__.py", line 56, in autodiscover
+    import_module('%s.adminx' % app_config.name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/repos/app/admin/user_board/adminx.py", line 55, in <module>
+    @xadmin.sites.register(NervosData)
+NameError: name 'NervosData' is not defined
+Unhandled exception in thread started by <function wrapper at 0x7fbf0c98b230>
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 116, in inner_run
+    autoreload.raise_last_exception()
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 251, in raise_last_exception
+    six.reraise(*_exception)
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/apps/registry.py", line 116, in populate
+    app_config.ready()
+  File "/home/ubuntu/repos/app/admin/xadmin/apps.py", line 16, in ready
+    self.module.autodiscover()
+  File "/home/ubuntu/repos/app/admin/xadmin/__init__.py", line 56, in autodiscover
+    import_module('%s.adminx' % app_config.name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/repos/app/admin/user_board/adminx.py", line 55, in <module>
+    @xadmin.sites.register(NervosData)
+NameError: name 'NervosData' is not defined
+Unhandled exception in thread started by <function wrapper at 0x7fc116851230>
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 116, in inner_run
+    autoreload.raise_last_exception()
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 251, in raise_last_exception
+    six.reraise(*_exception)
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/apps/registry.py", line 116, in populate
+    app_config.ready()
+  File "/home/ubuntu/repos/app/admin/xadmin/apps.py", line 16, in ready
+    self.module.autodiscover()
+  File "/home/ubuntu/repos/app/admin/xadmin/__init__.py", line 56, in autodiscover
+    import_module('%s.adminx' % app_config.name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/repos/app/admin/user_board/adminx.py", line 55, in <module>
+    @xadmin.sites.register(NervosData)
+NameError: name 'NervosData' is not defined
+Unhandled exception in thread started by <function wrapper at 0x7fa7733721b8>
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 116, in inner_run
+    autoreload.raise_last_exception()
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 251, in raise_last_exception
+    six.reraise(*_exception)
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/apps/registry.py", line 116, in populate
+    app_config.ready()
+  File "/home/ubuntu/repos/app/admin/xadmin/apps.py", line 16, in ready
+    self.module.autodiscover()
+  File "/home/ubuntu/repos/app/admin/xadmin/__init__.py", line 56, in autodiscover
+    import_module('%s.adminx' % app_config.name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/repos/app/admin/user_board/adminx.py", line 55, in <module>
+    @xadmin.sites.register(NervosData)
+NameError: name 'NervosData' is not defined
+Unhandled exception in thread started by <function wrapper at 0x7f9cb41c01b8>
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 116, in inner_run
+    autoreload.raise_last_exception()
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 251, in raise_last_exception
+    six.reraise(*_exception)
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/apps/registry.py", line 116, in populate
+    app_config.ready()
+  File "/home/ubuntu/repos/app/admin/xadmin/apps.py", line 16, in ready
+    self.module.autodiscover()
+  File "/home/ubuntu/repos/app/admin/xadmin/__init__.py", line 56, in autodiscover
+    import_module('%s.adminx' % app_config.name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/repos/app/admin/user_board/adminx.py", line 55, in <module>
+    @xadmin.sites.register(NervosData)
+NameError: name 'NervosData' is not defined
+System check identified some issues:
+
+WARNINGS:
+user_board.MonkeyRecord.go_home_time: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randomanimals: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randombackground: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.state: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+
+System check identified 4 issues (0 silenced).
+[01/Sep/2018 11:51:21] "GET /xadmin/ HTTP/1.1" 200 25815
+[01/Sep/2018 11:51:21] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 11:51:27] "GET /xadmin/user_board/monkeyrecord/ HTTP/1.1" 200 26489
+[01/Sep/2018 11:51:28] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+Performing system checks...
+
+September 01, 2018 - 11:51:18
+Django version 1.11.14, using settings 'learn_xadmin.settings'
+Starting development server at http://0.0.0.0:9999/
+Quit the server with CONTROL-C.
+System check identified some issues:
+
+WARNINGS:
+user_board.MonkeyRecord.go_home_time: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randomanimals: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randombackground: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.state: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+
+System check identified 4 issues (0 silenced).
+Performing system checks...
+
+September 01, 2018 - 11:51:50
+Django version 1.11.14, using settings 'learn_xadmin.settings'
+Starting development server at http://0.0.0.0:9999/
+Quit the server with CONTROL-C.
+System check identified some issues:
+
+WARNINGS:
+user_board.MonkeyRecord.go_home_time: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randomanimals: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randombackground: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.state: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+
+System check identified 4 issues (0 silenced).
+Performing system checks...
+
+September 01, 2018 - 11:52:22
+Django version 1.11.14, using settings 'learn_xadmin.settings'
+Starting development server at http://0.0.0.0:9999/
+Quit the server with CONTROL-C.
+System check identified some issues:
+
+WARNINGS:
+user_board.MonkeyRecord.go_home_time: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randomanimals: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randombackground: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.state: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+
+System check identified 4 issues (0 silenced).
+Performing system checks...
+
+September 01, 2018 - 11:53:04
+Django version 1.11.14, using settings 'learn_xadmin.settings'
+Starting development server at http://0.0.0.0:9999/
+Quit the server with CONTROL-C.
+System check identified some issues:
+
+WARNINGS:
+user_board.MonkeyRecord.go_home_time: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randomanimals: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randombackground: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.state: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+
+System check identified 4 issues (0 silenced).
+Performing system checks...
+
+September 01, 2018 - 11:53:09
+Django version 1.11.14, using settings 'learn_xadmin.settings'
+Starting development server at http://0.0.0.0:9999/
+Quit the server with CONTROL-C.
+System check identified some issues:
+
+WARNINGS:
+user_board.MonkeyRecord.go_home_time: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randomanimals: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randombackground: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.state: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+
+System check identified 4 issues (0 silenced).
+Performing system checks...
+
+September 01, 2018 - 11:53:17
+Django version 1.11.14, using settings 'learn_xadmin.settings'
+Starting development server at http://0.0.0.0:9999/
+Quit the server with CONTROL-C.
+System check identified some issues:
+
+WARNINGS:
+user_board.MonkeyRecord.go_home_time: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randomanimals: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randombackground: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.state: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+
+System check identified 4 issues (0 silenced).
+Performing system checks...
+
+September 01, 2018 - 11:53:24
+Django version 1.11.14, using settings 'learn_xadmin.settings'
+Starting development server at http://0.0.0.0:9999/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0x7fb0d5ac4578>
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 236, in wrapper
+    filename = traceback.extract_tb(tb)[-1][0]
+TypeError: 'NoneType' object is not callable
+System check identified some issues:
+
+WARNINGS:
+user_board.MonkeyRecord.go_home_time: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randomanimals: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randombackground: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.state: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+
+System check identified 4 issues (0 silenced).
+Performing system checks...
+
+September 01, 2018 - 11:53:36
+Django version 1.11.14, using settings 'learn_xadmin.settings'
+Starting development server at http://0.0.0.0:9999/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0x7f4638070758>
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 236, in wrapper
+    filename = traceback.extract_tb(tb)[-1][0]
+TypeError: 'NoneType' object is not callable
+System check identified some issues:
+
+WARNINGS:
+user_board.MonkeyRecord.go_home_time: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randomanimals: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randombackground: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.state: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+
+System check identified 4 issues (0 silenced).
+Performing system checks...
+
+September 01, 2018 - 11:53:51
+Django version 1.11.14, using settings 'learn_xadmin.settings'
+Starting development server at http://0.0.0.0:9999/
+Quit the server with CONTROL-C.
+System check identified some issues:
+
+WARNINGS:
+user_board.MonkeyRecord.go_home_time: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randomanimals: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randombackground: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.state: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+
+System check identified 4 issues (0 silenced).
+Performing system checks...
+
+September 01, 2018 - 11:54:51
+Django version 1.11.14, using settings 'learn_xadmin.settings'
+Starting development server at http://0.0.0.0:9999/
+Quit the server with CONTROL-C.
+System check identified some issues:
+
+WARNINGS:
+user_board.MonkeyRecord.go_home_time: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randomanimals: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randombackground: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.state: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+
+System check identified 4 issues (0 silenced).
+Performing system checks...
+
+September 01, 2018 - 11:54:54
+Django version 1.11.14, using settings 'learn_xadmin.settings'
+Starting development server at http://0.0.0.0:9999/
+Quit the server with CONTROL-C.
+System check identified some issues:
+
+WARNINGS:
+user_board.MonkeyRecord.go_home_time: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randomanimals: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randombackground: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.state: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+
+System check identified 4 issues (0 silenced).
+[01/Sep/2018 12:00:05] "GET /xadmin/user_board/monkeyrecord/ HTTP/1.1" 200 31154
+[01/Sep/2018 12:00:05] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 12:00:18] "GET /xadmin/bch_block_list/picdetail/ HTTP/1.1" 200 29779
+[01/Sep/2018 12:00:18] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 12:00:27] "GET /xadmin/ HTTP/1.1" 200 25812
+[01/Sep/2018 12:00:27] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 12:00:31] "GET /xadmin/bch_block_list/picdetail/ HTTP/1.1" 200 29779
+[01/Sep/2018 12:00:31] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 12:00:34] "GET /xadmin/users/userprofile/ HTTP/1.1" 200 34027
+[01/Sep/2018 12:00:34] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 12:00:36] "GET /xadmin/user_board/monkeyrecord/ HTTP/1.1" 200 31154
+[01/Sep/2018 12:00:36] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 12:00:58] "GET /xadmin/bch_block_list/picdetail/ HTTP/1.1" 200 29779
+[01/Sep/2018 12:00:58] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 12:01:56] "GET /xadmin/ HTTP/1.1" 200 25812
+[01/Sep/2018 12:01:56] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 12:02:05] "GET /xadmin/ HTTP/1.1" 200 25812
+[01/Sep/2018 12:02:05] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 12:02:11] "GET /xadmin/bch_block_list/picdetail/ HTTP/1.1" 200 29779
+[01/Sep/2018 12:02:11] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+Not Found: /http:/112.124.42.80:63435/
+[01/Sep/2018 12:11:57] "HEAD http://112.124.42.80:63435/ HTTP/1.1" 404 1685
+[01/Sep/2018 12:12:47] "GET /xadmin/user_board/monkeyrecord/ HTTP/1.1" 200 31154
+[01/Sep/2018 12:12:47] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 12:13:04] "GET /xadmin/xadmin/log/ HTTP/1.1" 200 30016
+[01/Sep/2018 12:13:04] "GET /static/xadmin/vendor/selectize/selectize.css HTTP/1.1" 200 8425
+[01/Sep/2018 12:13:04] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 12:13:04] "GET /static/xadmin/vendor/bootstrap-datepicker/css/datepicker.css HTTP/1.1" 200 10225
+[01/Sep/2018 12:13:04] "GET /static/xadmin/vendor/selectize/selectize.bootstrap3.css HTTP/1.1" 200 10602
+[01/Sep/2018 12:13:04] "GET /static/xadmin/vendor/select2/select2.css HTTP/1.1" 200 19226
+[01/Sep/2018 12:13:05] "GET /static/xadmin/js/xadmin.widget.datetime.js HTTP/1.1" 200 2979
+[01/Sep/2018 12:13:05] "GET /static/xadmin/vendor/select2/select2_locale_zh-hans.js HTTP/1.1" 200 694
+[01/Sep/2018 12:13:05] "GET /static/xadmin/js/xadmin.widget.select.js HTTP/1.1" 200 1344
+[01/Sep/2018 12:13:05] "GET /static/xadmin/vendor/bootstrap-datepicker/js/bootstrap-datepicker.js HTTP/1.1" 200 32656
+[01/Sep/2018 12:13:05] "GET /static/xadmin/vendor/selectize/selectize.js HTTP/1.1" 200 98602
+[01/Sep/2018 12:13:05] "GET /static/xadmin/vendor/select2/select2.js HTTP/1.1" 200 104906
+[01/Sep/2018 12:13:06] "GET /xadmin/user_board/monkeyrecord/ HTTP/1.1" 200 31154
+[01/Sep/2018 12:13:06] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 12:13:09] "GET /xadmin/bch_block_list/picdetail/ HTTP/1.1" 200 29779
+[01/Sep/2018 12:13:09] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 12:13:16] "GET /xadmin/users/userprofile/ HTTP/1.1" 200 34027
+[01/Sep/2018 12:13:17] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 12:13:18] "GET /xadmin/bch_block_list/picdetail/ HTTP/1.1" 200 29779
+[01/Sep/2018 12:13:18] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 12:14:01] "GET /xadmin/ HTTP/1.1" 200 25812
+[01/Sep/2018 12:14:02] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 12:14:09] "GET /xadmin/bch_block_list/picdetail/ HTTP/1.1" 200 29779
+[01/Sep/2018 12:14:09] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 12:14:11] "GET /xadmin/bch_block_list/picdetail/ HTTP/1.1" 200 29779
+[01/Sep/2018 12:14:11] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 12:14:13] "GET /xadmin/user_board/monkeyrecord/ HTTP/1.1" 200 31154
+[01/Sep/2018 12:14:13] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 12:14:15] "GET /xadmin/ HTTP/1.1" 200 25812
+[01/Sep/2018 12:14:15] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+Performing system checks...
+
+September 01, 2018 - 11:59:32
+Django version 1.11.14, using settings 'learn_xadmin.settings'
+Starting development server at http://0.0.0.0:9999/
+Quit the server with CONTROL-C.
+System check identified some issues:
+
+WARNINGS:
+user_board.MonkeyRecord.go_home_time: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randomanimals: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randombackground: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.state: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+
+System check identified 4 issues (0 silenced).
+Performing system checks...
+
+September 01, 2018 - 12:15:02
+Django version 1.11.14, using settings 'learn_xadmin.settings'
+Starting development server at http://0.0.0.0:9999/
+Quit the server with CONTROL-C.
+System check identified some issues:
+
+WARNINGS:
+user_board.MonkeyRecord.go_home_time: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randomanimals: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randombackground: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.state: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+
+System check identified 4 issues (0 silenced).
+Performing system checks...
+
+September 01, 2018 - 12:15:39
+Django version 1.11.14, using settings 'learn_xadmin.settings'
+Starting development server at http://0.0.0.0:9999/
+Quit the server with CONTROL-C.
+System check identified some issues:
+
+WARNINGS:
+user_board.MonkeyRecord.go_home_time: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randomanimals: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randombackground: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.state: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+
+System check identified 4 issues (0 silenced).
+[01/Sep/2018 12:16:06] "GET /xadmin/ HTTP/1.1" 200 25823
+[01/Sep/2018 12:16:06] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 12:16:10] "GET /xadmin/bch_block_list/picdetail/ HTTP/1.1" 200 29795
+[01/Sep/2018 12:16:11] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 12:16:13] "GET /xadmin/user_board/monkeyrecord/ HTTP/1.1" 200 31159
+[01/Sep/2018 12:16:13] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 12:16:19] "GET /xadmin/bch_block_list/picdetail/ HTTP/1.1" 200 29795
+[01/Sep/2018 12:16:19] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+Performing system checks...
+
+September 01, 2018 - 12:15:49
+Django version 1.11.14, using settings 'learn_xadmin.settings'
+Starting development server at http://0.0.0.0:9999/
+Quit the server with CONTROL-C.
+System check identified some issues:
+
+WARNINGS:
+user_board.MonkeyRecord.go_home_time: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randomanimals: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.randombackground: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+user_board.MonkeyRecord.state: (fields.W122) 'max_length' is ignored when used with IntegerField
+	HINT: Remove 'max_length' from field
+
+System check identified 4 issues (0 silenced).
+[01/Sep/2018 12:16:38] "GET /xadmin/bch_block_list/picdetail/ HTTP/1.1" 200 29791
+[01/Sep/2018 12:16:38] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 12:16:44] "GET /xadmin/user_board/monkeyrecord/ HTTP/1.1" 200 31155
+[01/Sep/2018 12:16:44] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 12:16:46] "GET /xadmin/ HTTP/1.1" 200 25819
+[01/Sep/2018 12:16:47] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 12:16:50] "GET /xadmin/bch_block_list/picdetail/ HTTP/1.1" 200 29791
+[01/Sep/2018 12:16:50] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 12:26:56] "GET /xadmin/users/userprofile HTTP/1.1" 301 0
+[01/Sep/2018 12:26:56] "GET /xadmin/users/userprofile/ HTTP/1.1" 200 4395
+[01/Sep/2018 12:26:56] "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 200 21658
+[01/Sep/2018 12:26:56] "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 200 8324
+[01/Sep/2018 12:26:56] "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 200 1888
+[01/Sep/2018 12:26:56] "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 200 175
+[01/Sep/2018 12:26:56] "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 200 4361
+[01/Sep/2018 12:26:56] "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 200 126432
+[01/Sep/2018 12:26:56] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 200 8195
+[01/Sep/2018 12:26:56] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 200 15069
+[01/Sep/2018 12:26:56] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 200 4561
+[01/Sep/2018 12:26:57] "GET /xadmin/jsi18n/ HTTP/1.1" 200 4376
+[01/Sep/2018 12:26:57] "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 200 3401
+[01/Sep/2018 12:26:57] "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 200 4033
+[01/Sep/2018 12:26:57] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 200 31918
+[01/Sep/2018 12:26:57] "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 200 3489
+[01/Sep/2018 12:26:57] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 200 42543
+[01/Sep/2018 12:26:57] "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 200 58327
+[01/Sep/2018 12:27:00] "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 200 240200
+[01/Sep/2018 12:27:00] "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+[01/Sep/2018 12:29:00] "GET /xadmin/user_board/monkeyrecord HTTP/1.1" 301 0
+[01/Sep/2018 12:29:00] "GET /xadmin/user_board/monkeyrecord/ HTTP/1.1" 200 4401
+[01/Sep/2018 12:29:01] "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 200 1888
+[01/Sep/2018 12:29:01] "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 200 21658
+[01/Sep/2018 12:29:01] "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 200 8324
+[01/Sep/2018 12:29:01] "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 200 175
+[01/Sep/2018 12:29:01] "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 200 4361
+[01/Sep/2018 12:29:01] "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 200 126432
+[01/Sep/2018 12:29:01] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 200 8195
+[01/Sep/2018 12:29:01] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 200 15069
+[01/Sep/2018 12:29:01] "GET /xadmin/jsi18n/ HTTP/1.1" 200 4376
+[01/Sep/2018 12:29:01] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 200 4561
+[01/Sep/2018 12:29:01] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 200 42543
+[01/Sep/2018 12:29:01] "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 200 3401
+[01/Sep/2018 12:29:02] "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 200 4033
+[01/Sep/2018 12:29:02] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 200 31918
+[01/Sep/2018 12:29:02] "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 200 3489
+[01/Sep/2018 12:29:02] "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 200 58327
+[01/Sep/2018 12:29:04] "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 200 240200
+[01/Sep/2018 12:29:05] "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+[01/Sep/2018 13:27:27] "GET /xadmin/ HTTP/1.1" 200 25819
+[01/Sep/2018 13:27:28] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+Not Found: /http:/www.baidu.com/cache/global/img/gs.gif
+[01/Sep/2018 13:59:48] "GET http://www.baidu.com/cache/global/img/gs.gif HTTP/1.1" 404 1729
+[01/Sep/2018 14:47:28] "GET /xadmin/bch_block_list/picdetail/ HTTP/1.1" 200 29791
+[01/Sep/2018 14:47:29] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 14:56:52] "GET /xadmin/xadmin/log HTTP/1.1" 301 0
+[01/Sep/2018 14:56:52] "GET /xadmin/xadmin/log/ HTTP/1.1" 200 4388
+[01/Sep/2018 14:56:52] "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 200 1888
+[01/Sep/2018 14:56:52] "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 200 8324
+[01/Sep/2018 14:56:52] "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 200 21658
+[01/Sep/2018 14:56:52] "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 200 175
+[01/Sep/2018 14:56:52] "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 200 4361
+[01/Sep/2018 14:56:52] "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 200 126432
+[01/Sep/2018 14:56:52] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 200 8195
+[01/Sep/2018 14:56:52] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 200 15069
+[01/Sep/2018 14:56:52] "GET /xadmin/jsi18n/ HTTP/1.1" 200 4376
+[01/Sep/2018 14:56:52] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 200 4561
+[01/Sep/2018 14:56:53] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 200 42543
+[01/Sep/2018 14:56:53] "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 200 58327
+[01/Sep/2018 14:56:53] "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 200 3401
+[01/Sep/2018 14:56:53] "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 200 4033
+[01/Sep/2018 14:56:53] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 200 31918
+[01/Sep/2018 14:56:54] "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 200 3489
+[01/Sep/2018 14:56:55] "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 200 240200
+[01/Sep/2018 14:57:04] "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+Not Found: /
+[01/Sep/2018 15:15:18] "GET / HTTP/1.1" 404 2026
+[01/Sep/2018 15:49:38] "GET /xadmin/user_board/monkeyrecord/ HTTP/1.1" 200 31155
+[01/Sep/2018 15:49:38] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 16:23:19] "GET /xadmin/ HTTP/1.1" 200 25819
+[01/Sep/2018 16:23:19] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 16:23:28] "GET /xadmin/users/userprofile/ HTTP/1.1" 200 34028
+[01/Sep/2018 16:23:29] "GET /xadmin/user_board/monkeyrecord/ HTTP/1.1" 200 31155
+[01/Sep/2018 16:23:29] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 16:23:30] "GET /xadmin/bch_block_list/picdetail/ HTTP/1.1" 200 29791
+[01/Sep/2018 16:23:31] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 16:23:39] "GET /xadmin/user_board/monkeyrecord/ HTTP/1.1" 200 31155
+[01/Sep/2018 16:23:39] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 16:23:59] "GET /xadmin/ HTTP/1.1" 200 25819
+[01/Sep/2018 16:23:59] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 16:24:02] "GET /xadmin/bch_block_list/picdetail/ HTTP/1.1" 200 29791
+[01/Sep/2018 16:24:02] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 16:24:05] "GET /xadmin/users/userprofile/ HTTP/1.1" 200 34028
+[01/Sep/2018 16:24:05] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 16:24:10] "GET /xadmin/ HTTP/1.1" 200 25819
+[01/Sep/2018 16:24:10] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 16:24:12] "GET /xadmin/bch_block_list/picdetail/ HTTP/1.1" 200 29791
+[01/Sep/2018 16:24:13] "GET /xadmin/jsi18n/ HTTP/1.1" 200 3331
+[01/Sep/2018 17:35:22] "GET /xadmin/bch_block_list/picdetail HTTP/1.1" 301 0
+[01/Sep/2018 17:35:22] "GET /xadmin/bch_block_list/picdetail/ HTTP/1.1" 200 4402
+[01/Sep/2018 17:35:22] "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 200 21658
+[01/Sep/2018 17:35:22] "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 200 8324
+[01/Sep/2018 17:35:22] "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 200 1888
+[01/Sep/2018 17:35:22] "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 200 175
+[01/Sep/2018 17:35:22] "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 200 4361
+[01/Sep/2018 17:35:22] "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 200 126432
+[01/Sep/2018 17:35:22] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 200 8195
+[01/Sep/2018 17:35:22] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 200 15069
+[01/Sep/2018 17:35:22] "GET /xadmin/jsi18n/ HTTP/1.1" 200 4376
+[01/Sep/2018 17:35:22] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 200 4561
+[01/Sep/2018 17:35:23] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 200 42543
+[01/Sep/2018 17:35:23] "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 200 3401
+[01/Sep/2018 17:35:23] "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 200 4033
+[01/Sep/2018 17:35:23] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 200 31918
+[01/Sep/2018 17:35:24] "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 200 3489
+[01/Sep/2018 17:35:24] "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 200 58327
+[01/Sep/2018 17:35:26] "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 200 240200
+[01/Sep/2018 17:35:26] "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+[01/Sep/2018 17:35:27] "GET /xadmin/users/userprofile HTTP/1.1" 301 0
+[01/Sep/2018 17:35:28] "GET /xadmin/users/userprofile/ HTTP/1.1" 200 4395
+[01/Sep/2018 17:35:29] "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 200 175
+[01/Sep/2018 17:35:29] "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 200 8324
+[01/Sep/2018 17:35:29] "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 200 1888
+[01/Sep/2018 17:35:29] "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 200 21658
+[01/Sep/2018 17:35:29] "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 200 4361
+[01/Sep/2018 17:35:29] "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 200 126432
+[01/Sep/2018 17:35:29] "GET /xadmin/jsi18n/ HTTP/1.1" 200 4376
+[01/Sep/2018 17:35:29] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 200 8195
+[01/Sep/2018 17:35:30] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 200 15069
+[01/Sep/2018 17:35:30] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 200 4561
+[01/Sep/2018 17:35:31] "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 200 3401
+[01/Sep/2018 17:35:31] "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 200 4033
+[01/Sep/2018 17:35:31] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 200 42543
+[01/Sep/2018 17:35:31] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 200 31918
+[01/Sep/2018 17:35:32] "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 200 3489
+[01/Sep/2018 17:35:32] "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 200 58327
+[01/Sep/2018 17:35:33] "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 200 240200
+Not Found: /http:/www.baidu.com/cache/global/img/gs.gif
+[01/Sep/2018 17:39:32] "GET http://www.baidu.com/cache/global/img/gs.gif HTTP/1.1" 404 1729
+Not Found: /
+[01/Sep/2018 19:30:55] "GET / HTTP/1.1" 404 2026
